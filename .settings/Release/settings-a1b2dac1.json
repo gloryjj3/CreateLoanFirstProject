@@ -55,5 +55,13 @@
   "UiPath.UIAutomationNext.Activities.SearchStepsWnd.FuzzySelector": "True",
   "UiPath.UIAutomationNext.Activities.SearchStepsWnd.Image": "True",
   "UiPath.UIAutomationNext.Activities.SearchStepsWnd.Anchors": "True",
-  "UiPath.UIAutomationNext.Activities.SearchStepsWnd.IgnoreSelectorsWithIdx": "True"
+  "UiPath.UIAutomationNext.Activities.SearchStepsWnd.IgnoreSelectorsWithIdx": "True",
+  "UiPath.UIAutomationNext.Activities.Generic.CaptureScreenshots": "True",
+  "UiPath.UIAutomationNext.Activities.SearchStepsWnd.InteractionMode": "HardwareEvents",
+  "UiPath.UIAutomationNext.Activities.SearchStepsWeb.EdgeInteractionMode": "DebuggerApi",
+  "UiPath.UIAutomationNext.Activities.SearchStepsJava.InteractionMode": "HardwareEvents",
+  "UiPath.UIAutomationNext.Activities.SearchStepsSAP.InteractionMode": "HardwareEvents",
+  "UiPath.UIAutomationNext.Activities.VerifyExecution.VerifyTypedText": "False",
+  "UiPath.UIAutomationNext.Activities.VerifyExecution.VerifyActivities": "False",
+  "UiPath.UIAutomationNext.Activities.ApplicationCard.ResizeWindow": "None"
 }
