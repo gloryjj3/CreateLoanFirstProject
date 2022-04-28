@@ -1368,7 +1368,7 @@
           "lib/net461/System.ValueTuple.dll": {}
         }
       },
-      "UiPath/20.10.7992.24819": {
+      "UiPath/20.10.7585.27318": {
         "type": "package",
         "compile": {
           "lib/_._": {}
@@ -1672,7 +1672,7 @@
           }
         }
       },
-      "UiPath.OCR.Activities/2.4.1": {
+      "UiPath.OCR.Activities/2.4.0": {
         "type": "package",
         "dependencies": {
           "AForge.Imaging": "2.2.5",
@@ -1929,7 +1929,7 @@
           "lib/net461/TelemetryClient.dll": {}
         }
       },
-      "UiPath.UIAutomation.Activities/20.10.11": {
+      "UiPath.UIAutomation.Activities/20.10.6": {
         "type": "package",
         "dependencies": {
           "AvalonEdit": "5.0.3",
@@ -1937,8 +1937,8 @@
           "Humanizer.Core": "2.4.2",
           "Newtonsoft.Json": "11.0.2",
           "System.IO.Abstractions": "3.0.10",
-          "UiPath": "[20.10.7992.24819]",
-          "UiPath.OCR.Activities": "2.4.1",
+          "UiPath": "[20.10.7585.27318]",
+          "UiPath.OCR.Activities": "2.4.0",
           "UiPath.OCR.Contracts": "2.7.1",
           "UiPath.Platform": "20.10.4",
           "UiPath.Telemetry.Client": "1.2.20",
@@ -3603,7 +3603,7 @@
           "lib/net461/System.ValueTuple.dll": {}
         }
       },
-      "UiPath/20.10.7992.24819": {
+      "UiPath/20.10.7585.27318": {
         "type": "package",
         "compile": {
           "lib/_._": {}
@@ -3907,7 +3907,7 @@
           }
         }
       },
-      "UiPath.OCR.Activities/2.4.1": {
+      "UiPath.OCR.Activities/2.4.0": {
         "type": "package",
         "dependencies": {
           "AForge.Imaging": "2.2.5",
@@ -4164,7 +4164,7 @@
           "lib/net461/TelemetryClient.dll": {}
         }
       },
-      "UiPath.UIAutomation.Activities/20.10.11": {
+      "UiPath.UIAutomation.Activities/20.10.6": {
         "type": "package",
         "dependencies": {
           "AvalonEdit": "5.0.3",
@@ -4172,8 +4172,8 @@
           "Humanizer.Core": "2.4.2",
           "Newtonsoft.Json": "11.0.2",
           "System.IO.Abstractions": "3.0.10",
-          "UiPath": "[20.10.7992.24819]",
-          "UiPath.OCR.Activities": "2.4.1",
+          "UiPath": "[20.10.7585.27318]",
+          "UiPath.OCR.Activities": "2.4.0",
           "UiPath.OCR.Contracts": "2.7.1",
           "UiPath.Platform": "20.10.4",
           "UiPath.Telemetry.Client": "1.2.20",
@@ -7011,10 +7011,10 @@
         "version.txt"
       ]
     },
-    "UiPath/20.10.7992.24819": {
-      "sha512": "kICPRBKAwzXZwP+Y+AhEVc3xf2yuNZdzb+1hP1u+6cj3M7juVs5BdWMLlqzGSNI0e+/c1WkLCPBBPFSxCr0pZA==",
+    "UiPath/20.10.7585.27318": {
+      "sha512": "JsTRlWDWgidI40/uzjexv8R+IA6fg+GHEoIT2/yUTN+0IPeypRqBhOnL2vYBKOIO7r7IdL7FFFda/1A13KeU+Q==",
       "type": "package",
-      "path": "uipath/20.10.7992.24819",
+      "path": "uipath/20.10.7585.27318",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7065,7 +7065,7 @@
         "build/UiPath/libcurl_x86.dll",
         "build/UiPath/slinject.exe",
         "lib/UiPath.Interop.dll",
-        "uipath.20.10.7992.24819.nupkg.sha512",
+        "uipath.20.10.7585.27318.nupkg.sha512",
         "uipath.nuspec"
       ]
     },
@@ -7490,10 +7490,10 @@
         "uipath.mail.activities.nuspec"
       ]
     },
-    "UiPath.OCR.Activities/2.4.1": {
-      "sha512": "piXylYbajeNVUTAZQxv00z4990l27A9EtE0KCjBhB4kio7rXZI/EkpPCmpcxR8MwHoOo2PLBTDo0U+3ky9JtuQ==",
+    "UiPath.OCR.Activities/2.4.0": {
+      "sha512": "x2nnBjsYQGMYllrdtKXqoLDjgU3JBPX3CPA50fXhpG290T+nrZwzRZKpgcAdbpnERnGW0vtm0c8EHmZ4C0uwLw==",
       "type": "package",
-      "path": "uipath.ocr.activities/2.4.1",
+      "path": "uipath.ocr.activities/2.4.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7541,7 +7541,7 @@
         "lib/net461/tr/UiPath.OCR.Activities.resources.dll",
         "lib/net461/zh-CN/UiPath.OCR.Activities.Design.resources.dll",
         "lib/net461/zh-CN/UiPath.OCR.Activities.resources.dll",
-        "uipath.ocr.activities.2.4.1.nupkg.sha512",
+        "uipath.ocr.activities.2.4.0.nupkg.sha512",
         "uipath.ocr.activities.nuspec"
       ]
     },
@@ -7705,10 +7705,10 @@
         "uipath.telemetry.client.nuspec"
       ]
     },
-    "UiPath.UIAutomation.Activities/20.10.11": {
-      "sha512": "IrykcFUHkcT+YAOu256N/ABBuiZQQ0ZUkQP8DxavgOrnccPAqSdJXBCWQJIjnxQVpACyEUn6r0Y0dxikPK2/KQ==",
+    "UiPath.UIAutomation.Activities/20.10.6": {
+      "sha512": "Z7RJ+kqc55kayK9Fe/RdIdtwBDEyAEsSuXwLpR+3Re1jeVOpsqYGKkGKFgclS+T3Pdx1UwuSBvgC+drZ8o+1mg==",
       "type": "package",
-      "path": "uipath.uiautomation.activities/20.10.11",
+      "path": "uipath.uiautomation.activities/20.10.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7899,7 +7899,7 @@
         "lib/net461/zh-cn/UiPath.UIAutomationNext.resources.dll",
         "lib/net461/zh-cn/UiPath.UiAutomation.Activities.resources.dll",
         "lib/net461/zh-cn/UiPath.Wizards.resources.dll",
-        "uipath.uiautomation.activities.20.10.11.nupkg.sha512",
+        "uipath.uiautomation.activities.20.10.6.nupkg.sha512",
         "uipath.uiautomation.activities.nuspec"
       ]
     },
@@ -7977,7 +7977,7 @@
       "UiPath.Excel.Activities >= 2.12.3 <= 2.12.3",
       "UiPath.Mail.Activities >= 1.15.1 <= 1.15.1",
       "UiPath.System.Activities >= 22.4.0 <= 22.4.0",
-      "UiPath.UIAutomation.Activities >= 20.10.11 <= 20.10.11"
+      "UiPath.UIAutomation.Activities >= 20.10.6 <= 20.10.6"
     ]
   },
   "packageFolders": {
@@ -8012,7 +8012,7 @@
           "UiPath.UIAutomation.Activities": {
             "include": "Runtime",
             "target": "Package",
-            "version": "[20.10.11, 20.10.11]"
+            "version": "[20.10.6, 20.10.6]"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPath\\Studio\\runtime.json"
